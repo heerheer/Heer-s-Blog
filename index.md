@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 咳咳
 
-You can use the [editor on GitHub](https://github.com/heerheer/heerheer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+既然来到了这里...那你肯定是...迷人可爱美少女的
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 正在开发的项目
 
-### Markdown
+- **自定义抽卡** 0.6.4
+- 厨力股 0.0.1-Alpha
+- Uonpan经济 0.2
+- 每日吸猫猫 1.1
+- _更多_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 支持我/Support
 
-# Header 1
-## Header 2
-### Header 3
+本人只是个家境贫寒的大学生
+如果你对我的作品/创意感兴趣的话
+可以赞助我！
+爱发电地址 [爱发电主页](https://afdian.net/@heerkaisair )
 
-- Bulleted
-- List
+### 更多
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heerheer/heerheer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+本人不是计算机专业，有点不懂相关知识
+对这些内容也只是一知半解，有什么不对的地方请指出~
